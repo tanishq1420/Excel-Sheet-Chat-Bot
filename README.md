@@ -2,6 +2,7 @@
 
 ## The README.md will be soon updated for detailed instructions
 
-1. Install langflow version 1.0.0a42 https://github.com/langflow-ai/langflow/releases/tag/v1.0.0a42
-2. use command langflow run
-3. create new project and upload json to view code and design
+1. use ```pip install langflow==1.0.0a42```
+2. use ```langflow run```
+3. on the locally hosted web interface, create a new project and import ```SQL-Agent.json```
+4. to view code, hover over any component and click on the ```<>``` symbol
