@@ -13,11 +13,13 @@
 2. in ```OpenAI``` and ```ChatOpenAI``` component, enter GPT4 API key
 3. in ```SQLDatabaseCreate``` enter host: ```localhost```, user: ```{username}```, password: ```{password}```
 4. build the component ```SQLDatabaseCreate``` and copy the generated output database URI
-![alt text](1.png)
-![alt text](2.png)
+<img src="1.png" alt="drawing" width="300"/>
+<img src="2.png" alt="drawing" width="300"/>
+
 6. enter the database URI in ```SQLAgent```
 7. build ```Chat Output```
-![alt text](3.png)
+<img src="3.png" alt="drawing" width="300"/>
+
 8. use the playground to interact with the chat-bot
-![alt text](4.png)
-![alt text](5.png)
+<img src="4.png" alt="drawing" width="500"/>
+<img src="5.png" alt="drawing" width="500"/>
