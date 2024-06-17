@@ -9,10 +9,11 @@
 
 ## Demo 
 
-1. in ```XLSXComponent``` enter ```PATH``` (of ```.xlxs``` file)
-2. in ```OpenAI``` and ```ChatOpenAI``` component, enter GPT4 API key
-3. in ```SQLDatabaseCreate``` enter host: ```localhost```, user: ```{username}```, password: ```{password}```
-4. build the component ```SQLDatabaseCreate``` and copy the generated output database URI
+1. create new blank project in langflow and import the file ```SQL-Agent.json``` provided in the repo
+2. in ```XLSXComponent``` enter ```PATH``` (of ```.xlxs``` file)
+3. in ```OpenAI``` and ```ChatOpenAI``` component, enter GPT4 API key
+4. in ```SQLDatabaseCreate``` enter host: ```localhost```, user: ```{username}```, password: ```{password}```
+5. build the component ```SQLDatabaseCreate``` and copy the generated output database URI
 <img src="1.png" alt="drawing" width="300"/>
 <img src="2.png" alt="drawing" width="300"/>
 
