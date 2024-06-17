@@ -5,7 +5,7 @@
 1. install dependencies using ```pip install -r requirements.txt```
 2. create a mysql server using ```mysql -u {username} -p{password}```
 3. use ```langflow run``` and open interface using the access url
-4. from google sheets export file as ```.xlxs``` and copy absolute ```PATH``` of file, example - ```/Users/tanishq/Desktop/Ema/Ema.xlsx```
+4. from google sheets export file as ```.xlxs``` and copy absolute ```PATH``` of file, example - ```/Users/tanishq/Desktop/Data/analysis.xlsx```
 
 ## Demo 
 
