@@ -1,0 +1,8 @@
+langflow==1.0.0a42
+pandas 
+sqlalchemy 
+mysql-connector-python
+openpyxl
+sqlalchemy_utils
+openai
+mysqlclient
